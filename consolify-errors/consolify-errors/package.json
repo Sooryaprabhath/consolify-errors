@@ -1,6 +1,6 @@
 {
   "name": "consolify-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, beautiful, and developer-friendly console error/warn/info/success displayer for Node.js",
   "main": "index.js",
   "type": "module",
